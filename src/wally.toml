@@ -1,0 +1,14 @@
+[package]
+name = "solarscuffle-bot/regioncast"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+licence = "MIT"
+authors = ["Sona"]
+
+description = "Small utility to assist with range-based raycasting."
+
+realm = "shared"
+
+exclude = ["README.md"]
+
+[dependencies]
